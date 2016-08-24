@@ -12,5 +12,9 @@ color:
     - '#3B28CC'
 layout_spectrum: 0.977584321750328
 name: The Great Display Company
+navigation:
+  - name: Main Site
+    url: 'http://www.thegreatdisplaycompany.com/'
+    type: external
 title: GRAPHICS. SIGNS. PRINTING.
 description: Your Signage and Marketing Partner
